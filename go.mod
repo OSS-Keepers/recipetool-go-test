@@ -1,4 +1,4 @@
-module github.com/OSS-Keepers/recipetool-go-test
+module git.yoctoproject.org/recipetool-go-test
 
 go 1.18
 
